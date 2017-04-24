@@ -12,6 +12,7 @@
 		520C7E4A1EA93B2600E8AD76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 520C7E481EA93B2600E8AD76 /* Main.storyboard */; };
 		520C7E4C1EA93B2600E8AD76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 520C7E4B1EA93B2600E8AD76 /* Assets.xcassets */; };
 		520C7E4F1EA93B2600E8AD76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 520C7E4D1EA93B2600E8AD76 /* LaunchScreen.storyboard */; };
+		520C7EED1EAAB90100E8AD76 /* cactus.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 520C7EEC1EAAB90100E8AD76 /* cactus.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		520C7E4B1EA93B2600E8AD76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		520C7E4E1EA93B2600E8AD76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		520C7E501EA93B2600E8AD76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		520C7EEC1EAAB90100E8AD76 /* cactus.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cactus.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				520C7E441EA93B2600E8AD76 /* AppDelegate.swift */,
 				520C7E461EA93B2600E8AD76 /* ViewController.swift */,
 				520C7E481EA93B2600E8AD76 /* Main.storyboard */,
+				520C7EEC1EAAB90100E8AD76 /* cactus.jpeg */,
 				520C7E4B1EA93B2600E8AD76 /* Assets.xcassets */,
 				520C7E4D1EA93B2600E8AD76 /* LaunchScreen.storyboard */,
 				520C7E501EA93B2600E8AD76 /* Info.plist */,
@@ -125,6 +128,7 @@
 			files = (
 				520C7E4F1EA93B2600E8AD76 /* LaunchScreen.storyboard in Resources */,
 				520C7E4C1EA93B2600E8AD76 /* Assets.xcassets in Resources */,
+				520C7EED1EAAB90100E8AD76 /* cactus.jpeg in Resources */,
 				520C7E4A1EA93B2600E8AD76 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -301,6 +305,7 @@
 				520C7E551EA93B2600E8AD76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
